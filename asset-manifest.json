@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/6m-software-2.1-react-intro-profilepage/static/css/main.0f6bbb2a.css",
+    "main.js": "/6m-software-2.1-react-intro-profilepage/static/js/main.6dadb9c5.js",
+    "static/media/Profile_Picture_1.jpg": "/6m-software-2.1-react-intro-profilepage/static/media/Profile_Picture_1.c5348151db858f83d2a0.jpg",
+    "index.html": "/6m-software-2.1-react-intro-profilepage/index.html",
+    "main.0f6bbb2a.css.map": "/6m-software-2.1-react-intro-profilepage/static/css/main.0f6bbb2a.css.map",
+    "main.6dadb9c5.js.map": "/6m-software-2.1-react-intro-profilepage/static/js/main.6dadb9c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f6bbb2a.css",
+    "static/js/main.6dadb9c5.js"
+  ]
+}
